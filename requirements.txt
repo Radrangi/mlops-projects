@@ -189,14 +189,14 @@ tfx==1.14.0
 tfx-bsl==1.14.0
 threadpoolctl==3.2.0
 tinycss2==1.2.1
-tornado==6.3.3
+tornado==6.5.3
 traitlets==5.13.0
 types-python-dateutil==2.8.19.14
 typing_extensions==4.5.0
 tzlocal==5.2
 uri-template==1.3.0
 uritemplate==3.0.1
-urllib3==2.0.7
+urllib3==2.6.0
 wcwidth==0.2.9
 webcolors==1.13
 webencodings==0.5.1
