@@ -141,7 +141,7 @@ psutil==5.9.6
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==10.0.1
-pyasn1==0.5.0
+pyasn1==0.6.2
 pyasn1-modules==0.3.0
 pycparser==2.21
 pydot==1.4.2
@@ -205,3 +205,4 @@ Werkzeug==3.0.1
 widgetsnbextension==3.6.6
 wrapt==1.14.1
 zstandard==0.21.0
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
